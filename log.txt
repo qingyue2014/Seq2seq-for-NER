@@ -1,0 +1,9 @@
+running time:2018-04-27 16:05:42
+parameter configure:	isCRF:True	isAttention:False	embedding_size:64	hidden_size:100	batch_size:16	epoch_num:6
+train_loss:
+11.1228255125
+4.88414235298
+4.59770168708
+4.51662616546
+4.40192185915
+4.27369837578
